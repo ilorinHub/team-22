@@ -7,7 +7,7 @@
 <header>
 <div class="header">
 	<div class="logo">
-		<a href="index.php">E-Government</a>
+		<a href="index.php">Traka</a>
 	</div>
 </div>
 <?php  
